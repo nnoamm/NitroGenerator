@@ -20,8 +20,8 @@ def gen():
         amount = numbtogen
 
         for x in range(int(numbtogen)):
-            nitro = ''.join(random.sample(all, length))
-            print('discord.gift/'+nitro)
+            code = ''.join(random.sample(all, length))
+            print('discord.gift/'+code)
 
 
 
