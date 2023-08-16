@@ -13,7 +13,7 @@
 
 - Open cmd
 
-- Then write ```cd C:\Users\PC\Music\Nexus\Nexuss1`` (its located there for me)
+- Then write ```cd C:\Users\PC\Music\Nexus\Nexuss1``` (its located there for me)
 
 - Then write ```python gen.py```
 
