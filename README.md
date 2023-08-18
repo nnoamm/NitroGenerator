@@ -1,6 +1,6 @@
 # Discord
 
-- [](https://discord.gg/5htQqK87)
+- https://discord.gg/5htQqK87
 
 
 # Installation
